@@ -1,0 +1,37 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: Documentation
+    url: docs/
+    weight: 20
+  - name: Blog
+    url: blog/
+    weight: 30
+  - name: Contribute
+    url: contribute/
+    weight: 40
+  - name: Usecases
+    url: usecases/
+    weight: 50
+  - name : "Github"
+    url: https://github.com/travlr-network/travlrnode
+    weight: 60
+  
+
+sidebar:
+  - identifier: more
+    name: Lets build together!
+    params:
+      type: separator
+    weight: 1
+  - identifier: contribute
+    name: "Contribute"
+    pageRef: "/contribute"
+    weight: 2
+  - identifier: "Github"
+    name: "Github"
+    url: https://github.com/travlr-network/travlrnode
