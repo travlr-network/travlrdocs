@@ -60,7 +60,7 @@ sections:
       text: Join the revolution in travel data management with TravlrNode. Enable secure, efficient, and user-controlled data sharing across the travel ecosystem.
       button:
         text: Get Started
-        url: /docs/setup/
+        url: /docs/getting-started/
     design:
       card:
         css_class: "bg-primary-700"
