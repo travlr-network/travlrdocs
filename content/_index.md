@@ -12,8 +12,8 @@ sections:
       title: Decentralized Travel Data Management
       text: TravlrNode is a revolutionary blockchain-based platform that puts travelers in control of their data while enabling secure sharing across the travel ecosystem 🌍
       primary_action:
-        text: Get Started
-        url: /docs/getting-started/
+        text: Connect!
+        url: https://www.travlr.network
         icon: rocket-launch
       secondary_action:
         text: Read the docs
@@ -59,8 +59,8 @@ sections:
       title: "Transform Your Travel Data Management"
       text: Join the revolution in travel data management with TravlrNode. Enable secure, efficient, and user-controlled data sharing across the travel ecosystem.
       button:
-        text: Get Started
-        url: /docs/getting-started/
+        text: Connect!
+        url: https://www.travlr.network
     design:
       card:
         css_class: "bg-primary-700"
